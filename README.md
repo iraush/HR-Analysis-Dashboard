@@ -22,4 +22,5 @@ Interactive Reporting<br>
 **Business Value**<br>
 This dashboard helps organizations understand employee turnover patterns, evaluate workforce demographics, monitor employee satisfaction, and support strategic HR decisions aimed at improving retention and overall workforce performance.<br>
 
-![image](https://github.com/iraush/HR-Analysis-Dashboard/blob/533385e519bc292e3bf92c9df9f62e8e42625b9e/HR%20analysis%20A.png)
+![image alt](https://github.com/iraush/HR-Analysis-Dashboard/blob/533385e519bc292e3bf92c9df9f62e8e42625b9e/HR%20analysis%20A.png)
+![image alt](https://github.com/iraush/HR-Analysis-Dashboard/blob/9ae78f2335416f5ed0f58b62e7a8902a57574372/HR%20Analysis%20B.png)
